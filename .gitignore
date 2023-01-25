@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Telegram dump
-my_result.json
+result.json
 
 # C extensions
 *.so
